@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Cooking",
+      "status": false
+    },
+    {
+      "id": "5e618638-d6f1-448f-ab1c-cd9b1a891b6e",
+      "task": "milk",
+      "status": false
+    },
+    {
+      "id": "7bd9f496-9841-449d-a5e5-7fe1c9e46689",
+      "task": "clean",
+      "status": false
+    }
+  ]
+}
